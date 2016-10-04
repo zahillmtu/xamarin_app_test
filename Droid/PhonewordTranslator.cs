@@ -5,6 +5,7 @@ namespace test_project.Droid
 {
 	public static class PhonewordTranslator
 	{
+		// adding a comment to test git
 		public static string ToNumber(string raw)
 		{
 			if (string.IsNullOrWhiteSpace(raw))
